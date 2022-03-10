@@ -7,6 +7,7 @@ public class test01 {
 		System.out.println("helloGitTest01..^---^!!");
 		System.out.println("helloGitTest02..^---^!!");
 		System.out.println("helloGitTest03..^---^!!");
+		System.out.println("helloGitTest04..^---^!!");
 	}
 
 }
